@@ -21,4 +21,4 @@ Things you may want to cover:
 A mockup of Ifood app 
 using rails and NextJS.
 
-Using API strategy.
+API strategy.
